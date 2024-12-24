@@ -11677,3 +11677,11 @@ figure.highlight.foldable div.level-left {
     padding: 1.5rem 1rem;
   }
 }
+body {
+  background-image: url("../img/00150-2009012991.png") !important;
+  background-position: center center !important;
+  background-repeat: no-repeat !important;
+  background-attachment: fixed !important;
+  background-size: cover !important;
+  background-color: #464646 !important;
+}
